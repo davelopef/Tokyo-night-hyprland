@@ -1,0 +1,282 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Рэклама"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Надакучлівасці"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Прадвызначана"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Дамены шкодных праграм"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Рознае"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Прыватнасць"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Рэгіёны, мовы"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Журнал змяненняў"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Зыходны код (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Удзельнікі"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Вонкавыя залежнасці (GPLv3-сумяшчальныя):"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Спісы фільтраў"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Пра пашырэнне"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Палітыка прыватнасці"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Зыходны код"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Пераклады"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Аўтаматычна абнаўляць старонку пры змене рэжыму фільтравання"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Базавае сеткавае фільтраванне па выбраных спісах фільтраў.\n\nНе патрабуе дазволу на чытанне і змяненне звестак на вэб-сайтах."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Паводзіны"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Пашыранае сеткавае фільтраванне плюс дакладнае і агульнае пашыранае фільтраванне па выбраных спісах фільтраў.\n\nПатрабуе шырокі дазвол на чытанне і змяненне звестак на ўсіх вэб-сайтах.\n\nАгульнае пашыранае фільтраванне можа прывесці да павышанага спажывання рэсурсаў вэб-старонкі."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Панэль кіравання"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Прадвызначаны рэжым фільтравання будзе перавызначаны рэжымам, выбраным для пэўнага вэб-сайта. Вы можаце дапасаваць рэжым фільтравання для кожнага сайта згодна з тым, які рэжым працуе лепей на гэтым вэб-сайце. Кожны рэжым мае свае перавагі і недахопы."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Прадвызначаны рэжым фільтравання"
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Уключыць строгае блакаванне"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Пераход да патэнцыйна непажаданых сайтаў будзе заблакаваны, і вам будзе прапанавана магчымасць працягнуць."
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Эксперыментальны блакавальнік змесціва, які не патрабуе дазволаў. Блакуе рэкламу, трэкеры, майнеры і іншае адразу пасля ўсталявання."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "без фільтравання"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "базавы"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "аптымальны"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "поўны"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Знайсці спісы"
+   },
+   "firstRunDescription": {
+      "description": "Descriptive text shown at first install time only ",
+      "message": "Вы толькі што ўсталявалі uBO Lite. Тут вы можаце выбраць прадвызначаны рэжым фільтравання для ўсіх вэб-сайтаў.\n\nКалі не ўказана іншае, выбраны \u003Cem>базавы\u003C/em> рэжым, бо ён не патрабуе дазволаў на чытанне і змяненне звестак. Калі вы давяраеце uBO Lite, можаце даць яму шырэйшыя дазволы на чытанне і змяненне звестак на ўсіх вэб-сайтах, каб зрабіць магчымымі больш прасунутыя функцыі фільтравання прадвызначана на ўсіх вэб-сайтах."
+   },
+   "firstRunSectionLabel": {
+      "description": "The header text for the welcome message section",
+      "message": "Вітаем"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Спіс назваў хостаў, для якіх не будзе праводзіцца фільтраванне"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[толькі назвы хостаў]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Пашыранае сеткавае фільтраванне плюс дакладнае фільтраванне па выбраных спісах фільтраў.\n\nПатрабуе шырокі дазвол на чытанне і змяненне звестак на ўсіх вэб-сайтах."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} правілаў, пераўтвораных з {{filterCount}} сеткавых фільтраў"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "рэжым фільтравання"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Менш"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Больш"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Адкрыць панэль кіравання"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Паведаміць пра праблему на гэтым вэб-сайце"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Налады"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Паказваць колькасць заблакаваных запытаў на значку панэлі інструментаў"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous webpage",
+      "message": "Вярнуцца"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Закрыць гэтае акно"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Не папярэджваць больш пра гэты сайт"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "без параметраў"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Працягнуць"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "Старонка была заблакаваная, бо трапіла ў фільтр праз {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "Заблакаваная старонка мае намер перанакіраваць на іншы сайт. Калі вырашыце працягнуць, вы пяройдзеце непасрэдна на: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite  папярэдзіў чытанне наступнай старонкі:"
+   },
+   "strictblockTitle": {
+      "description": "Webpage title for the strict-blocked page",
+      "message": "Старонка заблакаваная"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Знайсці падобныя справаздачы"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which open an external webpage in Support pane",
+      "message": "Стварыць новую справаздачу"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Паведамляйце пра праблемы з фільтрамі, датычныя канкрэтных вэб-сайтаў, праз \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">трэкер праблем\u003Ccode>uBlockOrigin/uAssets\u003C/code> \u003C/span>. \u003Cu>Патрэбны ўліковы запіс GitHub.\u003C/u>"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Пазначыць вэб-старонку як “NSFW” (\u003Ca href=\"https://be-tarask.wikipedia.org/wiki/NSFW\">“небяспечна для працы”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Паведаміць пра праблему з фільтрам"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Каб не абцяжарваць добраахвотнікаў дубляванымі справаздачамі, калі ласка, пераканайцеся, што пра гэтую праблему не паведамлялі раней."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "Вэб-старонка…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Выберыце тэму --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Паказвае рэкламу або яе астачу"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Мае накладкі або іншыя недарэчнасці"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Выяўляе uBO Lite"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Мае праблемы, датычныя прыватнасці"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Няспраўнасці пры ўключаным uBO Lite"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Адкрывае непажаданыя карткі або вокны"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Вядзе да шкодных праграм, фішынгу"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Адрас вэб-старонкі:"
+   }
+}

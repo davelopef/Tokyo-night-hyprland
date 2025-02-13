@@ -1,0 +1,282 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "දැන්වීම්"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "පීඩාකාරී"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "පෙරනිමි"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ද්වේශාංග වසම්"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "වෙනත්"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "පෞද්ගලිකත්‍වය"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "කලාපීය, භාෂා"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "වෙනස්කම් සටහන"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "මූලාශ්‍ර කේත (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "දායකයින්"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "බාහිර පරායත්ත (GPLv3-අනුකූල):"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "පෙරහන් ලැයිස්තු"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "පිළිබඳ"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "රහස්‍යතා ප්‍රතිපත්තිය"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "මූලාශ්‍ර කේත"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "පරිවර්තන"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "පෙරීමේ ප්‍රකාරය වෙනස් වූ විට පිටුව ස්වයංක්‍රීයව යළි පූරණය කරන්න"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Basic network filtering from selected filter lists.\n\nDoes not require permission to read and modify data on websites."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "හැසිරීම"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Advanced network filtering plus specific and generic extended filtering from selected filter lists.\n\nRequires broad permission to read and modify data on all websites.\n\nGeneric extended filtering may cause higher webpage resources usage."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite - උපකරණ පුවරුව"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "The default filtering mode will be overridden by per-website filtering modes. You can adjust the filtering mode on any given website according to whichever mode works best on that website. Each mode has its advantages and disadvantages."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "පෙරනිමි පෙරීමේ ප්‍රකාරය"
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Enable strict blocking"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Navigation to potentially undesirable sites will be blocked, and you will be offered the option to proceed."
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "අවසර අනවශ්‍ය අන්තර්ගත අවහිරකය. ස්ථාපනය කළ වහාම දැන්වීම්, ලුහුබැඳීම්, කැණීම් සහ තවත් දෑ අවහිර කරයි."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "පෙරීමක් නැත"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "මූලික"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "ප්‍රශස්ත"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "සම්පූර්ණ"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Find lists"
+   },
+   "firstRunDescription": {
+      "description": "Descriptive text shown at first install time only ",
+      "message": "You have just installed uBO Lite. Here you can choose the default filtering mode to use on all websites.\n\nBy default, \u003Cem>Basic\u003C/em> mode is selected because it does not require the permission to read and modify data. If you trust uBO Lite, you can give it broad permission to read and modify data on all websites in order to enable more advanced filtering capabilities for all websites by default."
+   },
+   "firstRunSectionLabel": {
+      "description": "The header text for the welcome message section",
+      "message": "සාදරයෙන් පිළිගනිමු"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "පෙරීමක් නොවන අඩවි ලැයිස්තුව."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[සත්කාරක පමණි]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Advanced network filtering plus specific extended filtering from selected filter lists.\n\nRequires broad permission to read and modify data on all websites."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "නීති {{ruleCount}} ක් ජාල පෙරහන් {{filterCount}} කින් හරවා ඇත"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "පෙරීමේ ප්‍රකාරය"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "අඩුවෙන්"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "තව"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "උපකරණ පුවරුව අරින්න"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "මෙම අඩවියේ ගැටලුවක් වාර්තා කරන්න"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "සැකසුම්"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "මෙවලම් තීරු නිරූපකයේ අවහිර කළ ඉල්ලීම් ගණන පෙන්වන්න"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous webpage",
+      "message": "Go back"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Close this window"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Don't warn me again about this site"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "without parameters"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Proceed"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "The page was blocked because of a matching filter in {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "The blocked page wants to redirect to another site. If you choose to proceed, you will navigate directly to: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite has prevented the following page from loading:"
+   },
+   "strictblockTitle": {
+      "description": "Webpage title for the strict-blocked page",
+      "message": "Page blocked"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "සමාන වාර්තා සොයන්න"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which open an external webpage in Support pane",
+      "message": "නව වාර්තාවක් සාදන්න"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Report filter issues with specific websites to the \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> issue tracker\u003C/span>. \u003Cu>Requires a GitHub account.\u003C/u>"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Label the webpage as “NSFW” (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Not Safe For Work”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "පෙරහන් ගැටලු වාර්තා කරන්න"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "To avoid burdening volunteers with duplicate reports, please verify that the issue has not already been reported."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "වියමන පිටුව…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- නිවේශිතයක් තෝරන්න --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Shows ads or ad leftovers"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Has overlays or other nuisances"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite අනාවරණය කරයි"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Has privacy-related issues"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Malfunctions when uBO Lite is enabled"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "අනවශ්‍ය පටිති හෝ කවුළු අරියි"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Leads to badware, phishing"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "අඩවියේ ලිපිනය:"
+   }
+}

@@ -1,0 +1,12 @@
+2025-02-09 16:28:18.570 [info] Marked extension as removed kingleo.deepseek-web-1.0.21
+2025-02-09 16:28:18.571 [info] Marked extension as removed kingleo.kimi-vscode-0.0.5
+2025-02-09 16:28:18.572 [info] Marked extension as removed kingleo.llmtext-1.0.2
+2025-02-09 16:28:18.572 [info] Marked extension as removed kingleo.qwen-0.0.1
+2025-02-09 16:28:18.572 [info] Marked extension as removed kingleo.sonus-web-0.0.2
+2025-02-09 16:28:18.572 [info] Marked extension as removed serayuzgur.crates-0.6.7
+2025-02-09 16:28:18.585 [info] Deleted marked for removal extension from disk kingleo.qwen /home/davelopef/.vscode/extensions/kingleo.qwen-0.0.1
+2025-02-09 16:28:18.586 [info] Deleted marked for removal extension from disk kingleo.kimi-vscode /home/davelopef/.vscode/extensions/kingleo.kimi-vscode-0.0.5
+2025-02-09 16:28:18.586 [info] Deleted marked for removal extension from disk serayuzgur.crates /home/davelopef/.vscode/extensions/serayuzgur.crates-0.6.7
+2025-02-09 16:28:18.586 [info] Deleted marked for removal extension from disk kingleo.sonus-web /home/davelopef/.vscode/extensions/kingleo.sonus-web-0.0.2
+2025-02-09 16:28:18.597 [info] Deleted marked for removal extension from disk kingleo.llmtext /home/davelopef/.vscode/extensions/kingleo.llmtext-1.0.2
+2025-02-09 16:28:18.599 [info] Deleted marked for removal extension from disk kingleo.deepseek-web /home/davelopef/.vscode/extensions/kingleo.deepseek-web-1.0.21

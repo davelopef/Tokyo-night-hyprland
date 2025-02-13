@@ -1,0 +1,282 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Գովազդ"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Ջղայնացնող տարրեր"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Լռելյայն"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Վնասակար տիրույթներ"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Տարբեր"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Գաղտնիություն"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Տարածաշրջաններ, լեզուներ"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Փոփոխությունների մատյան"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Աղբյուրի կոդ (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Մասնակիցներ"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Արտաքին կախվածություններ (GPLv3-համատեղելի)՝"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Զտիչների ցանկեր"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Ընդլայնման մասին"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Գաղտնիության քաղաքականություն"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Աղբյուրի կոդ"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Թարգմանություն"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Զտման ռեժիմը փոխելիս ինքնաշխատորեն վերաբեռնել էջը"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Ցանցային հիմնական զտում ըստ ընտրված զտիչների ցուցակների։\n\nԿայքերում տվյալները կարդալու և փոփոխելու թույլտվություն չի պահանջում։"
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Վարք"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Ընդլայնված ցանցային զտում, ինչպես նաև հատուկ և առաջադեմ ընդհանուր զտում ընտրված զտիչների ցանկերի համաձայն։\n\nՊահանջում է բոլոր կայքերում տվյալները կարդալու և փոփոխելու թույլտվություն։\n\nԱռաջադեմ ընդհանուր զտումը կարող է առաջացնել վեբ էջի կողմից ռեսուրսների սպառման ավելացում:"
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Կառավահան"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Զտման լռելյայն ռեժիմը վերասահմանվում է յուրաքանչյուր կայքի զտման ռեժիմներով։ Դուք կարող եք ջոկել ամենաարդյունավետ զտման ռեժիմը ցանկացած կայքում։ Յուրաքանչյուր ռեժիմ ունի իր առավելություններն ու թերությունները։"
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Զտման լռելյայն ռեժիմ"
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Enable strict blocking"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Navigation to potentially undesirable sites will be blocked, and you will be offered the option to proceed."
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Փբովանդակության արգելափակիչ, որը չի պահանջում թույլտվություններ։ Արգելափակում է ազդերը, հետագծիչները, մայներները և շատ ավելին։"
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "առանց զտման"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "հիմնական"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "գերադասելի"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "ամբողջական"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Find lists"
+   },
+   "firstRunDescription": {
+      "description": "Descriptive text shown at first install time only ",
+      "message": "Դուք հենց նոր տեղադրեցիք uBO Lite-ը։ Այստեղ Դուք կարող եք զտման ստանդարտ ռեժիմ ընտրել բոլոր կայքերի համար։\n\nԼռելյայն կերպով ընտրված է \u003Cem>հիմնական\u003C/em> ռեժիմը, քանի որ այն չի պահանջում տվյալների ընթերցման և փոփոխման թույլտվություն։ Եթե վստահում եք uBO Lite-ին, կարող եք տալ դրան բոլոր կայքերում տվյալների ընթերցման և փոփոխման լայն իրավունքներ՝ բոլոր կայքերի համար զտման ավելի առաջադեմ հնարավորությունները լռելյայն կերպով միացնելու համար։"
+   },
+   "firstRunSectionLabel": {
+      "description": "The header text for the welcome message section",
+      "message": "Բարի գալուստ"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Հյուրերի անունների ցանկ, որոնց համար զտում չի իրականացվի"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[hostnames only]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Ընդլայնված ցանցային զտում՝ ընտրված զտիչների ցուցակների համաձայն հատուկ զտման հետ միասին։\n\nՊահանջում է տվյալները բոլոր կայքերում կարդալու և փոփոխելու թույլտվություն։"
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} կանոն, որոնք փոխարկված են {{filterCount}} ցանցային զտիչներից"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "զտման ռեժիմ"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Պակաս"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Ավելին"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Բացել կառավահանը"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Report an issue on this website"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Կարգավորումներ"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Ցուցադրել արգելափակված հայտերի քանակը գործիքների վահանակին"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous webpage",
+      "message": "Go back"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Close this window"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Don't warn me again about this site"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "without parameters"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Proceed"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "The page was blocked because of a matching filter in {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "The blocked page wants to redirect to another site. If you choose to proceed, you will navigate directly to: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite has prevented the following page from loading:"
+   },
+   "strictblockTitle": {
+      "description": "Webpage title for the strict-blocked page",
+      "message": "Page blocked"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Find similar reports"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which open an external webpage in Support pane",
+      "message": "Create new report"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Report filter issues with specific websites to the \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> issue tracker\u003C/span>. \u003Cu>Requires a GitHub account.\u003C/u>"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Label the webpage as “NSFW” (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Not Safe For Work”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Report a filter issue"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "To avoid burdening volunteers with duplicate reports, please verify that the issue has not already been reported."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "The webpage…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Pick an entry --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Shows ads or ad leftovers"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Has overlays or other nuisances"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Detects uBO Lite"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Has privacy-related issues"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Malfunctions when uBO Lite is enabled"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Opens unwanted tabs or windows"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Leads to badware, phishing"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Address of the webpage:"
+   }
+}

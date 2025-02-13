@@ -1,0 +1,83 @@
+2025-02-09 16:10:30.088 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:10:30.746 [info] [Info  - 4:10:30 PM] (148771) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:10:30.747 [info] [Info  - 4:10:30 PM] (148771) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:10:35.127 [info] [Info  - 4:10:35 PM] Server process exited successfully
+2025-02-09 16:10:35.701 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:10:36.974 [info] [Info  - 4:10:36 PM] (148846) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:10:36.999 [info] [Info  - 4:10:36 PM] (148846) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:10:38.028 [info] [Info  - 4:10:38 PM] Server process exited successfully
+2025-02-09 16:10:38.561 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:10:39.208 [info] [Info  - 4:10:39 PM] (148934) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:10:39.208 [info] [Info  - 4:10:39 PM] (148934) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:10:44.426 [info] [Info  - 4:10:44 PM] Server process exited successfully
+2025-02-09 16:10:44.948 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:10:45.660 [info] [Info  - 4:10:45 PM] (149014) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:10:45.661 [info] [Info  - 4:10:45 PM] (149014) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:10:51.431 [info] [Info  - 4:10:51 PM] Server process exited successfully
+2025-02-09 16:10:51.977 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:10:52.603 [info] [Info  - 4:10:52 PM] (149073) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:10:52.604 [info] [Info  - 4:10:52 PM] (149073) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:11:06.642 [info] [Info  - 4:11:06 PM] Server process exited successfully
+2025-02-09 16:11:07.157 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:11:07.751 [info] [Info  - 4:11:07 PM] (149198) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:11:07.752 [info] [Info  - 4:11:07 PM] (149198) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:11:15.207 [info] [Info  - 4:11:15 PM] Server process exited successfully
+2025-02-09 16:11:15.728 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:11:16.328 [info] [Info  - 4:11:16 PM] (149280) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:11:16.329 [info] [Info  - 4:11:16 PM] (149280) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:11:37.602 [info] [Info  - 4:11:37 PM] Server process exited successfully
+2025-02-09 16:11:38.128 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:11:38.742 [info] [Info  - 4:11:38 PM] (149445) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:11:38.742 [info] [Info  - 4:11:38 PM] (149445) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:11:47.074 [info] [Info  - 4:11:47 PM] Server process exited successfully
+2025-02-09 16:11:47.591 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:11:48.218 [info] [Info  - 4:11:48 PM] (149528) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:11:48.219 [info] [Info  - 4:11:48 PM] (149528) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:12:29.057 [info] [Info  - 4:12:29 PM] Server process exited successfully
+2025-02-09 16:12:29.576 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:12:30.187 [info] [Info  - 4:12:30 PM] (149838) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:12:30.187 [info] [Info  - 4:12:30 PM] (149838) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:12:41.448 [info] [Info  - 4:12:41 PM] Server process exited successfully
+2025-02-09 16:12:42.003 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:12:42.631 [info] [Info  - 4:12:42 PM] (149947) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:12:42.631 [info] [Info  - 4:12:42 PM] (149947) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:12:45.638 [info] [Info  - 4:12:45 PM] Server process exited successfully
+2025-02-09 16:12:46.156 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:12:46.751 [info] [Info  - 4:12:46 PM] (149986) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:12:46.751 [info] [Info  - 4:12:46 PM] (149986) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:12:46.817 [info] [Info  - 4:12:46 PM] Server process exited successfully
+2025-02-09 16:12:47.324 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:12:47.924 [info] [Info  - 4:12:47 PM] (150002) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:12:47.925 [info] [Info  - 4:12:47 PM] (150002) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:13:49.422 [info] [Info  - 4:13:49 PM] Server process exited successfully
+2025-02-09 16:13:49.949 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:13:50.549 [info] [Info  - 4:13:50 PM] (150460) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:13:50.550 [info] [Info  - 4:13:50 PM] (150460) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:14:09.321 [info] [Info  - 4:14:09 PM] Server process exited successfully
+2025-02-09 16:14:09.849 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:14:10.445 [info] [Info  - 4:14:10 PM] (150623) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:14:10.446 [info] [Info  - 4:14:10 PM] (150623) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:20:36.307 [info] [Info  - 4:20:36 PM] Server process exited successfully
+2025-02-09 16:20:36.864 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:20:37.481 [info] [Info  - 4:20:37 PM] (153306) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:20:37.482 [info] [Info  - 4:20:37 PM] (153306) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:23:08.806 [info] [Info  - 4:23:08 PM] Server process exited successfully
+2025-02-09 16:23:09.336 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:23:09.965 [info] [Info  - 4:23:09 PM] (154640) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:23:09.966 [info] [Info  - 4:23:09 PM] (154640) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:24:14.745 [info] [Info  - 4:24:14 PM] Server process exited successfully
+2025-02-09 16:24:15.254 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:24:15.897 [info] [Info  - 4:24:15 PM] (155328) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:24:15.898 [info] [Info  - 4:24:15 PM] (155328) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:24:46.736 [info] [Info  - 4:24:46 PM] Server process exited successfully
+2025-02-09 16:24:47.242 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:24:47.872 [info] [Info  - 4:24:47 PM] (155771) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:24:47.873 [info] [Info  - 4:24:47 PM] (155771) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:25:29.444 [info] [Info  - 4:25:29 PM] Server process exited successfully
+2025-02-09 16:25:29.950 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:25:30.566 [info] [Info  - 4:25:30 PM] (156154) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:25:30.567 [info] [Info  - 4:25:30 PM] (156154) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-09 16:25:51.141 [info] [Info  - 4:25:51 PM] Server process exited successfully
+2025-02-09 16:25:51.648 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-09 16:25:52.250 [info] [Info  - 4:25:52 PM] (156336) Server root directory: file:///home/davelopef/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-09 16:25:52.251 [info] [Info  - 4:25:52 PM] (156336) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting

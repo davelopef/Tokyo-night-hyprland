@@ -1,0 +1,6 @@
+2025-02-11 19:19:23.144 [info] Try to start language server - activation (enabled: true)
+2025-02-11 19:19:23.278 [info] Running language server gopls(v0.17.1/go1.23.6)
+2025-02-11 19:20:02.665 [info] Running checks...
+2025-02-11 19:20:02.666 [info] Starting linting the current package at /home/davelopef/testgo
+2025-02-11 19:20:03.563 [info] /home/davelopef/testgo>Finished running tool: /home/davelopef/go/bin/staticcheck
+2025-02-11 19:20:03.563 [info] 

@@ -1,0 +1,47 @@
+{
+   "checksum": "83f9b779ddbe8b14dd49b200fc34d650",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13383322281594206",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13383326169366374",
+            "date_last_used": "13383423482944903",
+            "guid": "ed22b5ba-4d66-4010-be60-3b9dc67b96ec",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - tokyo-night/tokyo-night-vscode-theme: A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+            "type": "url",
+            "url": "https://github.com/tokyo-night/tokyo-night-vscode-theme"
+         } ],
+         "date_added": "13383322281594211",
+         "date_last_used": "0",
+         "date_modified": "13383326169366374",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383322281594236",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

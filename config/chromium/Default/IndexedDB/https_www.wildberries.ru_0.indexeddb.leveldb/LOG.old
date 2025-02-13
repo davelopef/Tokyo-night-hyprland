@@ -1,0 +1,36 @@
+2025/02/12-20:06:13.959 50f Creating DB /home/davelopef/.config/chromium/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb since it was missing.
+2025/02/12-20:06:14.050 50f Reusing MANIFEST /home/davelopef/.config/chromium/Default/IndexedDB/https_www.wildberries.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/12-20:06:15.069 510 Level-0 table #5: started
+2025/02/12-20:06:15.139 510 Level-0 table #5: 902700 bytes OK
+2025/02/12-20:06:15.166 510 Delete type=0 #3
+2025/02/12-20:06:15.328 510 Level-0 table #7: started
+2025/02/12-20:06:15.404 510 Level-0 table #7: 906658 bytes OK
+2025/02/12-20:06:15.439 510 Delete type=0 #4
+2025/02/12-20:06:15.453 510 Compacting 1@1 + 1@2 files
+2025/02/12-20:06:15.546 510 Generated table #8@1: 27322 keys, 818050 bytes
+2025/02/12-20:06:15.546 510 Compacted 1@1 + 1@2 files => 818050 bytes
+2025/02/12-20:06:15.579 510 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/12-20:06:15.580 510 Delete type=2 #5
+2025/02/12-20:06:15.580 510 Delete type=2 #7
+2025/02/12-20:06:15.593 510 Level-0 table #10: started
+2025/02/12-20:06:15.737 510 Level-0 table #10: 901876 bytes OK
+2025/02/12-20:06:15.980 510 Delete type=0 #6
+2025/02/12-20:06:22.562 510 Level-0 table #12: started
+2025/02/12-20:06:22.612 510 Level-0 table #12: 468606 bytes OK
+2025/02/12-20:06:22.643 510 Delete type=0 #9
+2025/02/12-20:06:22.644 510 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x03\x00\x00\x00\x00\x90~\x16A' @ 209215 : 1
+2025/02/12-20:06:22.644 510 Compacting 1@0 + 1@1 files
+2025/02/12-20:06:22.755 510 Generated table #13@0: 51185 keys, 848263 bytes
+2025/02/12-20:06:22.755 510 Compacted 1@0 + 1@1 files => 848263 bytes
+2025/02/12-20:06:22.782 510 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/12-20:06:22.783 510 Delete type=2 #10
+2025/02/12-20:06:22.783 510 Delete type=2 #12
+2025/02/12-20:06:22.783 510 Manual compaction at level-0 from '\x00\x01\x02\x02\x03\x00\x00\x00\x00\x90~\x16A' @ 209215 : 1 .. (end); will stop at (end)
+2025/02/12-20:06:22.783 510 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x03\x00\x00\x00\x00\x90~\x16A' @ 209215 : 1
+2025/02/12-20:06:22.783 510 Compacting 1@1 + 1@2 files
+2025/02/12-20:06:22.880 510 Generated table #14@1: 46699 keys, 1410958 bytes
+2025/02/12-20:06:22.880 510 Compacted 1@1 + 1@2 files => 1410958 bytes
+2025/02/12-20:06:22.907 510 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/12-20:06:22.907 510 Delete type=2 #13
+2025/02/12-20:06:22.907 510 Delete type=2 #8
+2025/02/12-20:06:22.908 510 Manual compaction at level-1 from '\x00\x01\x02\x02\x03\x00\x00\x00\x00\x90~\x16A' @ 209215 : 1 .. (end); will stop at (end)
