@@ -1,7 +1,0 @@
-2025-02-11 19:19:21.306 [info] Getting Manifest... rust-lang.rust-analyzer
-2025-02-11 19:21:38.102 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.97.0","date":"2025-02-04T22:41:26.688Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/davelopef/.vscode/extensions/extensions.json","path":"/home/davelopef/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
-2025-02-11 19:21:41.080 [info] Extension signature verification result for rust-lang.rust-analyzer: UnknownError. Executed: true. Duration: 195ms.
-2025-02-11 19:21:41.743 [info] Extracted extension to file:///home/davelopef/.vscode/extensions/rust-lang.rust-analyzer-0.3.2299-linux-x64: rust-lang.rust-analyzer
-2025-02-11 19:21:41.781 [info] Renamed to /home/davelopef/.vscode/extensions/rust-lang.rust-analyzer-0.3.2299-linux-x64
-2025-02-11 19:21:41.851 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2291
-2025-02-11 19:21:41.878 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/davelopef/.vscode/extensions/extensions.json
