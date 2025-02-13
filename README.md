@@ -1,6 +1,11 @@
 Tokyo night dots for hyprland
 
 TODOS:
-Insert screenshots there \n
-Make a simple script for installation \n
-Learn go (what?) \n
+
+Insert screenshots there 
+
+Make a simple script for installation
+
+Learn go (what?)
+
+Add more wallpapers
