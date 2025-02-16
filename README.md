@@ -9,3 +9,5 @@ Make a simple script for installation
 Add sddm 
 
 Add more wallpapers
+
+Make a better readme
