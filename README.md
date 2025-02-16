@@ -6,6 +6,6 @@ Insert screenshots there
 
 Make a simple script for installation
 
-Learn go (what?)
+Add sddm 
 
 Add more wallpapers
