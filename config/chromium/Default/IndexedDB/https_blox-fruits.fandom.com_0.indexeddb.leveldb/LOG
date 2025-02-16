@@ -1,6 +1,0 @@
-2025/02/08-19:40:01.283 1000 Creating DB /home/davelopef/.config/chromium/Default/IndexedDB/https_blox-fruits.fandom.com_0.indexeddb.leveldb since it was missing.
-2025/02/08-19:40:01.433 1000 Reusing MANIFEST /home/davelopef/.config/chromium/Default/IndexedDB/https_blox-fruits.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/08-22:34:22.398 1000 Level-0 table #5: started
-2025/02/08-22:34:22.439 1000 Level-0 table #5: 3426 bytes OK
-2025/02/08-22:34:22.474 1000 Delete type=0 #3
-2025/02/08-22:34:22.474 1000 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
